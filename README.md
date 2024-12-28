@@ -87,8 +87,4 @@ The game is implemented using **SFML (Simple and Fast Multimedia Library)**, lev
 ## Contributing
 This project was developed for educational purposes. Contributions and suggestions are welcome to enhance its features or improve its codebase.
 
----
-
-## License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
