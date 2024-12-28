@@ -54,7 +54,7 @@ The game is implemented using **SFML (Simple and Fast Multimedia Library)**, lev
 ### Build Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pacman-game.git
+   git clone https://github.com/Dogfetus/man-pac.git
    cd pacman-game
    ```
 2. Create a build directory and navigate to it:
