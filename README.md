@@ -5,6 +5,9 @@ This is a Pac-Man-inspired game developed as part of an educational process to l
 
 The game is implemented using **SFML (Simple and Fast Multimedia Library)**, leveraging its robust graphics and multimedia capabilities.
 
+![Maan-Pac Main Menu](docs/image.png)
+![Man-Pac Game Menu](docs/game.png)
+
 ---
 
 ## Features
@@ -78,12 +81,6 @@ The game is implemented using **SFML (Simple and Fast Multimedia Library)**, lev
 - **Multithreading**: Implemented a separate thread to handle game functions like enemy spawning and interactions, synchronized using mutexes.
 - **SFML Graphics**: Learned to create and manage graphical elements like sprites, textures, and animations.
 - **Game Design**: Developed skills in map design, game balancing, and feature implementation.
-
----
-
-## Screenshots
-![Maan-Pac Main Menu](docs/image.png)
-![Man-Pac Game Menu](docs/game.png)
 
 ---
 
